@@ -1,0 +1,19 @@
+html{
+    background-color: #ffffff;
+}
+
+#index body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
+
+#index .w3-sidenav a {padding:20px}
+
+#index .wrapper {
+    border:1px solid #000;
+    display:inline-block;
+}
+
+#index
+input,
+button {
+    background-color:transparent;
+    border:0;
+}
