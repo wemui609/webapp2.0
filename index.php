@@ -30,7 +30,7 @@
 </div>
 
     </div>
-    <div class="w3-center"><a href="index.html"><img src="logo2.png" width="150" height="90"></a></div>
+    <div class="w3-center"><a href="index.html"><img src="logo.png" width="150" height="150"></a></div>
   </div>
 </div>
   

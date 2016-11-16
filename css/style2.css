@@ -170,11 +170,13 @@ html{
 .wrapper {
     border:1px solid #000;
     display:inline-block;
+    
 }
 
-input,
+
 button {
     background-color:transparent;
     border:0;
-}
+        
+    }
 
